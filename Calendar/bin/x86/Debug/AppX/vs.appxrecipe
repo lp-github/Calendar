@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\project\Calendar\Calendar\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-05-17T12:38:31.945</Modified>
+      <Modified>2018-05-17T12:44:48.484</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\project\Calendar\Calendar\bin\x86\Debug\Calendar.exe">
       <PackagePath>entrypoint\Calendar.exe</PackagePath>
-      <Modified>2018-05-17T12:38:31.600</Modified>
+      <Modified>2018-05-17T12:44:47.556</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -544,11 +544,11 @@
     <AppxPackagedFile Include="D:\project\Calendar\Calendar\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-05-17T12:31:21.729</Modified>
+      <Modified>2018-05-17T12:44:48.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\project\Calendar\Calendar\bin\x86\Debug\Core\Calendar.exe">
       <PackagePath>Calendar.exe</PackagePath>
-      <Modified>2018-05-17T12:38:31.940</Modified>
+      <Modified>2018-05-17T12:44:48.480</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
