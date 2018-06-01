@@ -406,9 +406,12 @@ namespace Calendar
 
         private void LogOut_Click(object sender, RoutedEventArgs e)
         {
-            (Window.Current.Content as Frame).Navigate(typeof(SignupPage));
             App.isLogin = false;
             App.loginUser = null;
+            database.Logout();
+            (Window.Current.Content as Frame).Navigate(typeof(SigninPage));
+           
+
         }
 
         protected override void OnNavigatedTo(NavigationEventArgs e)
